@@ -1,0 +1,19 @@
+{
+  "liveServer.settings.port": 5501,
+  "cSpell.words": ["firstname"],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "database": "test",
+      "username": "root@localhost",
+      "name": "registration"
+    }
+  ]
+}
